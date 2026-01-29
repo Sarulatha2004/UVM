@@ -19,7 +19,7 @@ class HA_monitor extends uvm_monitor;
     super.build_phase(phase);
     mon_ap=new("mon_ap",this); 
     if(!uvm_config_db #(virtual HA_if)::get(this,"","vif",vif))
-      `uvm_fatal("DRIVER","Virtual interface not found")
+      `uvm_fatal("MONITOR","Virtual interface not found")
   endfunction
   
   task run_phase(uvm_phase phase);
