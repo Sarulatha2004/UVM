@@ -1,0 +1,22 @@
+UVM_INFO @ 0: reporter [RNTST] Running test HA_test...
+UVM_INFO environment.sv(14) @ 0: uvm_test_top.env [ENV] Environment Created
+UVM_INFO sequence.sv(18) @ 0: uvm_test_top.env.agent.seqncr@@seq [SEQ] Sequence starts
+UVM_INFO scoreboard.sv(31) @ 10: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 8 |b= 1|Actual output: sum= 9 |carry=0 || Expected output:sum= 9 |carry=0
+UVM_INFO scoreboard.sv(31) @ 20: uvm_test_top.env.sb [SB] PASS----> INPUT:a=11 |b=11|Actual output: sum= 6 |carry=1 || Expected output:sum= 6 |carry=1
+UVM_INFO scoreboard.sv(31) @ 30: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 0 |b= 2|Actual output: sum= 2 |carry=0 || Expected output:sum= 2 |carry=0
+UVM_INFO scoreboard.sv(31) @ 40: uvm_test_top.env.sb [SB] PASS----> INPUT:a=10 |b=15|Actual output: sum= 9 |carry=1 || Expected output:sum= 9 |carry=1
+UVM_INFO scoreboard.sv(31) @ 50: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 2 |b= 8|Actual output: sum=10 |carry=0 || Expected output:sum=10 |carry=0
+UVM_INFO scoreboard.sv(31) @ 60: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=11|Actual output: sum= 0 |carry=1 || Expected output:sum= 0 |carry=1
+UVM_INFO scoreboard.sv(31) @ 70: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 8 |b=12|Actual output: sum= 4 |carry=1 || Expected output:sum= 4 |carry=1
+UVM_INFO scoreboard.sv(31) @ 80: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 8 |b= 5|Actual output: sum=13 |carry=0 || Expected output:sum=13 |carry=0
+UVM_INFO scoreboard.sv(31) @ 90: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 9 |b= 0|Actual output: sum= 9 |carry=0 || Expected output:sum= 9 |carry=0
+UVM_INFO scoreboard.sv(31) @ 100: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=10|Actual output: sum=15 |carry=0 || Expected output:sum=15 |carry=0
+UVM_INFO scoreboard.sv(31) @ 110: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=10|Actual output: sum=15 |carry=0 || Expected output:sum=15 |carry=0
+UVM_INFO scoreboard.sv(31) @ 120: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=10|Actual output: sum=15 |carry=0 || Expected output:sum=15 |carry=0
+UVM_INFO scoreboard.sv(31) @ 130: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=10|Actual output: sum=15 |carry=0 || Expected output:sum=15 |carry=0
+UVM_INFO scoreboard.sv(31) @ 140: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=10|Actual output: sum=15 |carry=0 || Expected output:sum=15 |carry=0
+UVM_INFO scoreboard.sv(31) @ 150: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=10|Actual output: sum=15 |carry=0 || Expected output:sum=15 |carry=0
+UVM_INFO scoreboard.sv(31) @ 160: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=10|Actual output: sum=15 |carry=0 || Expected output:sum=15 |carry=0
+UVM_INFO scoreboard.sv(31) @ 170: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=10|Actual output: sum=15 |carry=0 || Expected output:sum=15 |carry=0
+UVM_INFO scoreboard.sv(31) @ 180: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=10|Actual output: sum=15 |carry=0 || Expected output:sum=15 |carry=0
+UVM_INFO scoreboard.sv(31) @ 190: uvm_test_top.env.sb [SB] PASS----> INPUT:a= 5 |b=10|Actual output: sum=15 |carry=0 || Expected output:sum=15 |carry=0
