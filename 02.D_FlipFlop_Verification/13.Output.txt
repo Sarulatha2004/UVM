@@ -1,0 +1,40 @@
+UVM_INFO @ 0: reporter [RNTST] Running test dff_test...
+UVM_INFO environment.sv(11) @ 0: uvm_test_top.env [ENV] Environment Created
+UVM_INFO sequence.sv(13) @ 0: uvm_test_top.env.agent.COMP_395@@ [SEQ] Sequence starts
+UVM_INFO scoreboard.sv(33) @ 6: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 16: uvm_test_top.env.sb [SB] PASS -> rst=1 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 26: uvm_test_top.env.sb [SB] PASS -> rst=1 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 36: uvm_test_top.env.sb [SB] PASS -> rst=1 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 46: uvm_test_top.env.sb [SB] PASS -> rst=1 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 56: uvm_test_top.env.sb [SB] PASS -> rst=1 d=1 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 66: uvm_test_top.env.sb [SB] PASS -> rst=1 d=1 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 76: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 86: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 96: uvm_test_top.env.sb [SB] PASS -> rst=1 d=1 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 106: uvm_test_top.env.sb [SB] PASS -> rst=1 d=1 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 116: uvm_test_top.env.sb [SB] PASS -> rst=0 d=1 | DUT_q=1 EXP_q=1
+UVM_INFO scoreboard.sv(33) @ 126: uvm_test_top.env.sb [SB] PASS -> rst=0 d=1 | DUT_q=1 EXP_q=1
+UVM_INFO scoreboard.sv(33) @ 136: uvm_test_top.env.sb [SB] PASS -> rst=0 d=1 | DUT_q=1 EXP_q=1
+UVM_INFO scoreboard.sv(33) @ 146: uvm_test_top.env.sb [SB] PASS -> rst=0 d=1 | DUT_q=1 EXP_q=1
+UVM_INFO scoreboard.sv(33) @ 156: uvm_test_top.env.sb [SB] PASS -> rst=0 d=1 | DUT_q=1 EXP_q=1
+UVM_INFO scoreboard.sv(33) @ 166: uvm_test_top.env.sb [SB] PASS -> rst=0 d=1 | DUT_q=1 EXP_q=1
+UVM_INFO scoreboard.sv(33) @ 176: uvm_test_top.env.sb [SB] PASS -> rst=1 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 186: uvm_test_top.env.sb [SB] PASS -> rst=1 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 196: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 206: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 216: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 226: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 236: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 246: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 256: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 266: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 276: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 286: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+UVM_INFO scoreboard.sv(33) @ 296: uvm_test_top.env.sb [SB] PASS -> rst=0 d=0 | DUT_q=0 EXP_q=0
+$finish called from file "testbench.sv", line 41.
+$finish at simulation time                  300
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 300 ns
+CPU Time:      0.530 seconds;       Data structure size:   0.4Mb
+Mon Feb  2 06:51:28 2026
+Done
