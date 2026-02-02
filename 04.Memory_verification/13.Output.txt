@@ -1,0 +1,93 @@
+UVM_INFO @ 0: reporter [RNTST] Running test mem_test...
+UVM_INFO environment.sv(11) @ 0: uvm_test_top.env [ENV] Environment Created
+UVM_INFO sequence.sv(13) @ 0: uvm_test_top.env.agent.COMP_395@@ [SEQ] Sequence starts
+UVM_INFO scoreboard.sv(57) @ 6: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=0 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 6: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 16: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=101 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 16: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 26: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=101 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 26: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 36: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1001 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 36: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 46: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1001 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 46: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 56: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=110 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 56: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 66: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=110 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 66: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(52) @ 76: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=1000 | wdata=1001010
+UVM_INFO scoreboard.sv(52) @ 86: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=1000 | wdata=1001010
+UVM_INFO scoreboard.sv(57) @ 96: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=110 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 96: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 106: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=110 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 106: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(52) @ 116: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=110 | wdata=10011111
+UVM_INFO scoreboard.sv(52) @ 126: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=110 | wdata=10011111
+UVM_INFO scoreboard.sv(57) @ 136: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 136: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 146: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 146: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(52) @ 156: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=1 | wdata=111111
+UVM_INFO scoreboard.sv(52) @ 166: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=1 | wdata=111111
+UVM_INFO scoreboard.sv(52) @ 176: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=110 | wdata=1001011
+UVM_INFO scoreboard.sv(52) @ 186: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=110 | wdata=1001011
+UVM_INFO scoreboard.sv(52) @ 196: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=10 | wdata=1100111
+UVM_INFO scoreboard.sv(52) @ 206: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=10 | wdata=1100111
+UVM_INFO scoreboard.sv(57) @ 216: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1 | rdata=111111
+UVM_INFO scoreboard.sv(60) @ 216: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 226: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1 | rdata=111111
+UVM_INFO scoreboard.sv(60) @ 226: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 236: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1 | rdata=111111
+UVM_INFO scoreboard.sv(60) @ 236: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 246: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1 | rdata=111111
+UVM_INFO scoreboard.sv(60) @ 246: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 256: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1000 | rdata=1001010
+UVM_INFO scoreboard.sv(60) @ 256: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 266: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1000 | rdata=1001010
+UVM_INFO scoreboard.sv(60) @ 266: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 276: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=101 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 276: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 286: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=101 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 286: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 296: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=10 | rdata=1100111
+UVM_INFO scoreboard.sv(60) @ 296: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 306: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=10 | rdata=1100111
+UVM_INFO scoreboard.sv(60) @ 306: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 316: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1000 | rdata=1001010
+UVM_INFO scoreboard.sv(60) @ 316: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 326: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1000 | rdata=1001010
+UVM_INFO scoreboard.sv(60) @ 326: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 336: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=101 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 336: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 346: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=101 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 346: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(52) @ 356: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=11 | wdata=1110011
+UVM_INFO scoreboard.sv(52) @ 366: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=11 | wdata=1110011
+UVM_INFO scoreboard.sv(52) @ 376: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=110 | wdata=11001001
+UVM_INFO scoreboard.sv(52) @ 386: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=110 | wdata=11001001
+UVM_INFO scoreboard.sv(52) @ 396: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=10 | wdata=10011010
+UVM_INFO scoreboard.sv(52) @ 406: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=10 | wdata=10011010
+UVM_INFO scoreboard.sv(57) @ 416: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=111 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 416: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 426: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=111 | rdata=0
+UVM_INFO scoreboard.sv(60) @ 426: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 436: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=10 | rdata=10011010
+UVM_INFO scoreboard.sv(60) @ 436: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 446: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=10 | rdata=10011010
+UVM_INFO scoreboard.sv(60) @ 446: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 456: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=110 | rdata=11001001
+UVM_INFO scoreboard.sv(60) @ 456: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 466: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=110 | rdata=11001001
+UVM_INFO scoreboard.sv(60) @ 466: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 476: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1000 | rdata=1001010
+UVM_INFO scoreboard.sv(60) @ 476: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(57) @ 486: uvm_test_top.env.sb [SB] READ DATA-->r_w=0 | addr=1000 | rdata=1001010
+UVM_INFO scoreboard.sv(60) @ 486: uvm_test_top.env.sb [SB] TEST CASE PASS
+UVM_INFO scoreboard.sv(52) @ 496: uvm_test_top.env.sb [SB] WRITE DATA--->r_w=1 | addr=10 | wdata=10110110
+$finish called from file "testbench.sv", line 42.
+$finish at simulation time                  500
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 500 ns
+CPU Time:      0.620 seconds;       Data structure size:   0.4Mb
+Mon Feb  2 08:28:34 2026
+Done
