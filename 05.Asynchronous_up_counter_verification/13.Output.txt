@@ -1,0 +1,47 @@
+
+UVM_INFO @ 0: reporter [RNTST] Running test cntr_test...
+UVM_INFO environment.sv(11) @ 0: uvm_test_top.env [ENV] Environment Created
+UVM_INFO sequence.sv(13) @ 0: uvm_test_top.env.agent.seqncr@@seq [SEQ] Sequence starts
+UVM_INFO scoreboard.sv(35) @ 6: uvm_test_top.env.sb [SB] PASS -> rst=1 en=0 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 16: uvm_test_top.env.sb [SB] PASS -> rst=1 en=0 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 26: uvm_test_top.env.sb [SB] PASS -> rst=1 en=0 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 36: uvm_test_top.env.sb [SB] PASS -> rst=1 en=1 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 46: uvm_test_top.env.sb [SB] PASS -> rst=1 en=1 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 56: uvm_test_top.env.sb [SB] PASS -> rst=1 en=1 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 66: uvm_test_top.env.sb [SB] PASS -> rst=1 en=1 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 76: uvm_test_top.env.sb [SB] PASS -> rst=1 en=1 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 86: uvm_test_top.env.sb [SB] PASS -> rst=1 en=1 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 96: uvm_test_top.env.sb [SB] PASS -> rst=1 en=0 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 106: uvm_test_top.env.sb [SB] PASS -> rst=0 en=0 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 116: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=1 EXP_count=1
+UVM_INFO scoreboard.sv(35) @ 126: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=2 EXP_count=2
+UVM_INFO scoreboard.sv(35) @ 136: uvm_test_top.env.sb [SB] PASS -> rst=0 en=0 | DUT_count=2 EXP_count=2
+UVM_INFO scoreboard.sv(35) @ 146: uvm_test_top.env.sb [SB] PASS -> rst=0 en=0 | DUT_count=2 EXP_count=2
+UVM_INFO scoreboard.sv(35) @ 156: uvm_test_top.env.sb [SB] PASS -> rst=0 en=0 | DUT_count=2 EXP_count=2
+UVM_INFO scoreboard.sv(35) @ 166: uvm_test_top.env.sb [SB] PASS -> rst=0 en=0 | DUT_count=2 EXP_count=2
+UVM_INFO scoreboard.sv(35) @ 176: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=3 EXP_count=3
+UVM_INFO scoreboard.sv(35) @ 186: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=4 EXP_count=4
+UVM_INFO scoreboard.sv(35) @ 196: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=5 EXP_count=5
+UVM_INFO scoreboard.sv(35) @ 206: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=6 EXP_count=6
+UVM_INFO scoreboard.sv(35) @ 216: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=7 EXP_count=7
+UVM_INFO scoreboard.sv(35) @ 226: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=8 EXP_count=8
+UVM_INFO scoreboard.sv(35) @ 236: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=9 EXP_count=9
+UVM_INFO scoreboard.sv(35) @ 246: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=10 EXP_count=10
+UVM_INFO scoreboard.sv(35) @ 256: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=11 EXP_count=11
+UVM_INFO scoreboard.sv(35) @ 266: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=12 EXP_count=12
+UVM_INFO scoreboard.sv(35) @ 276: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=13 EXP_count=13
+UVM_INFO scoreboard.sv(35) @ 286: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=14 EXP_count=14
+UVM_INFO scoreboard.sv(35) @ 296: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=15 EXP_count=15
+UVM_INFO scoreboard.sv(35) @ 306: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=0 EXP_count=0
+UVM_INFO scoreboard.sv(35) @ 316: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=1 EXP_count=1
+UVM_INFO scoreboard.sv(35) @ 326: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=2 EXP_count=2
+UVM_INFO scoreboard.sv(35) @ 336: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=3 EXP_count=3
+UVM_INFO scoreboard.sv(35) @ 346: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=4 EXP_count=4
+UVM_INFO scoreboard.sv(35) @ 356: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=5 EXP_count=5
+UVM_INFO scoreboard.sv(35) @ 366: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=6 EXP_count=6
+UVM_INFO scoreboard.sv(35) @ 376: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=7 EXP_count=7
+UVM_INFO scoreboard.sv(35) @ 386: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=8 EXP_count=8
+UVM_INFO scoreboard.sv(35) @ 396: uvm_test_top.env.sb [SB] PASS -> rst=0 en=1 | DUT_count=9 EXP_count=9
+$finish called from file "testbench.sv", line 45.
+$finish at simulation time                  400
+           V C S   S i m u l a t i o n   R e p o r t 
