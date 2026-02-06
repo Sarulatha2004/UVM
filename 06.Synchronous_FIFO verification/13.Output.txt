@@ -1,0 +1,32 @@
+
+UVM_INFO @ 0: reporter [RNTST] Running test fifo_test...
+UVM_INFO sequence.sv(12) @ 0: uvm_test_top.env.agent.sqncr@@seq [SEQ] Sequence starts
+UVM_INFO scoreboard.sv(24) @ 6: uvm_test_top.env.sb [SB] Reset Active - 	Ignored
+UVM_INFO scoreboard.sv(24) @ 16: uvm_test_top.env.sb [SB] Reset Active - 	Ignored
+UVM_INFO scoreboard.sv(24) @ 26: uvm_test_top.env.sb [SB] Reset Active - 	Ignored
+UVM_INFO scoreboard.sv(24) @ 36: uvm_test_top.env.sb [SB] Reset Active - 	Ignored
+UVM_INFO scoreboard.sv(24) @ 46: uvm_test_top.env.sb [SB] Reset Active - 	Ignored
+UVM_INFO scoreboard.sv(36) @ 66: uvm_test_top.env.sb [SB] Write occur--->input=196
+UVM_INFO scoreboard.sv(36) @ 86: uvm_test_top.env.sb [SB] Write occur--->input=172
+UVM_INFO scoreboard.sv(36) @ 106: uvm_test_top.env.sb [SB] Write occur--->input=130
+UVM_INFO scoreboard.sv(41) @ 126: uvm_test_top.env.sb [SB] Test case PASS--->Input=160 |Output =196
+UVM_INFO scoreboard.sv(41) @ 146: uvm_test_top.env.sb [SB] Test case PASS--->Input=35 |Output =172
+UVM_INFO scoreboard.sv(41) @ 166: uvm_test_top.env.sb [SB] Test case PASS--->Input=11 |Output =130
+UVM_INFO scoreboard.sv(41) @ 186: uvm_test_top.env.sb [SB] Test case PASS--->Input=139 |Output =130
+UVM_INFO scoreboard.sv(41) @ 206: uvm_test_top.env.sb [SB] Test case PASS--->Input=99 |Output =130
+UVM_INFO scoreboard.sv(36) @ 226: uvm_test_top.env.sb [SB] Write occur--->input=255
+UVM_INFO scoreboard.sv(36) @ 246: uvm_test_top.env.sb [SB] Write occur--->input=18
+UVM_INFO scoreboard.sv(36) @ 266: uvm_test_top.env.sb [SB] Write occur--->input=90
+UVM_INFO scoreboard.sv(41) @ 286: uvm_test_top.env.sb [SB] Test case PASS--->Input=214 |Output =255
+UVM_INFO scoreboard.sv(36) @ 306: uvm_test_top.env.sb [SB] Write occur--->input=239
+UVM_INFO scoreboard.sv(41) @ 326: uvm_test_top.env.sb [SB] Test case PASS--->Input=236 |Output =18
+UVM_INFO scoreboard.sv(36) @ 346: uvm_test_top.env.sb [SB] Write occur--->input=140
+UVM_INFO scoreboard.sv(41) @ 366: uvm_test_top.env.sb [SB] Test case PASS--->Input=142 |Output =90
+UVM_INFO scoreboard.sv(36) @ 386: uvm_test_top.env.sb [SB] Write occur--->input=27
+UVM_INFO scoreboard.sv(41) @ 406: uvm_test_top.env.sb [SB] Test case PASS--->Input=150 |Output =239
+UVM_INFO scoreboard.sv(41) @ 426: uvm_test_top.env.sb [SB] Test case PASS--->Input=230 |Output =140
+UVM_INFO scoreboard.sv(41) @ 446: uvm_test_top.env.sb [SB] Test case PASS--->Input=124 |Output =27
+$finish called from file "testbench.sv", line 51.
+$finish at simulation time                  550
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 550 ns
